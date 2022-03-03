@@ -3,7 +3,7 @@ from .utils import Shortened_Code
 from .forms import ValidateURL
 
 # Create your models here.
-MYURL = 'http://127.0.0.1:8000/'
+MYURL = 'https://liveshortener.herokuapp.com/'
 
 class URLShortenModel(models.Model): 
     original_url = models.CharField(max_length=150, validators=[ValidateURL])
