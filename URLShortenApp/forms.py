@@ -13,7 +13,7 @@ def ValidateURL(value):
     except:
         v1_invalid = True
 
-    updated_url = 'http://'+value
+    updated_url = 'https://'+value
 
     try:
         url_validator(updated_url)
