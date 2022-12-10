@@ -38,14 +38,5 @@ def b62Encode(num):
 *   For Shortening URL, send POST request to `https://domain_name/api/create/`
 *   For Accessing Shortened URL, send GET request to `https://domain_name/api/<Base62code>/`
 
-
-
-
-
-<img src="URLShortenApp/static/URLShortenApp/images/hm-page.png" width="400">      <img src="URLShortenApp/static/URLShortenApp/images/success-page.png" width="400">
-
-
-
-
-
-
+<img src="URLShortenApp/static/URLShortenApp/images/hm-page.png" width="400">      
+<img src="URLShortenApp/static/URLShortenApp/images/success-page.png" width="400">
