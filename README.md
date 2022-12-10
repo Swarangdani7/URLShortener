@@ -36,7 +36,7 @@ def b62Encode(num):
 ## API Endpoints:
 
 *   For Shortening URL, send POST request to `https://domain_name/api/create/`
-*   For Accessing Shortened URL, send GET request to `https://domain_name/<Base62code>`
+*   For Accessing Shortened URL, send GET request to `https://domain_name/api/<Base62code>/`
 
 
 
