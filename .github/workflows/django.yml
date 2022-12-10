@@ -30,16 +30,11 @@ jobs:
         python manage.py test
   
   DeployDev:
-    
-    name: Deploy to Dev
-    needs: [build]
+  
     runs-on: ubuntu-latest
   
     environment:
-      name: Production
+      name: url-shortener
       url: https://swarangdani07.pythonanywhere.com/
-      
-    steps:
-      - name: Deploy
         
       
