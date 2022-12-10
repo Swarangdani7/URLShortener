@@ -1,8 +1,8 @@
 # URL-Shortener-Service
 A django based URL Shortening Service which takes a long URL and converts it into a short url
-```python
-https://swarangdani07.pythonanywhere.com/
-```
+
+~~https://liveshortener.herokuapp.com/~~
+<p>https://swarangdani07.pythonanywhere.com/</p>
 
 ## Features:
 
